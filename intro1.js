@@ -7,3 +7,7 @@ function sauname(){
 function isabove18(){
     age>=18
 }
+
+function newfn(){
+    console.log('hey im a new fn')
+}
