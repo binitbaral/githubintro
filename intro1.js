@@ -9,5 +9,5 @@ function isabove18(){
 }
 
 function newfn(){
-    console.log('hey im a new fn')
+    console.log('my name is ${name2}')
 }
