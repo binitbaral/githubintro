@@ -15,3 +15,7 @@ function newfn(){
 function newfeatureadd(){
     console.log('working on branch')
 }
+
+function newfeatureaddb(){
+    console.log('this is new feature b')
+}
