@@ -19,3 +19,7 @@ function newfeatureadd(){
 function newfeatureaddb(){
     console.log('this is new feature b')
 }
+
+function newfeatureaddc(){
+    console.log('gitigiti')
+}
